@@ -11,3 +11,6 @@
 - [ ] tree구조의 경우 모든 컬럼에 대해 index를 생성해야 하는가?
 - [ ] 커버렁 index,  mysql 실행계획(explain)
 - [ ] proxie - 스프링 트랜잭션과 AOP의 동장 방식에 대하여
+
+# blog TODO
+- [ ] header overlay image의 크기가 커서 로딩이 오리걸리는 문제
