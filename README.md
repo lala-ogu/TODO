@@ -13,4 +13,4 @@
 - [ ] proxie - 스프링 트랜잭션과 AOP의 동장 방식에 대하여
 
 # blog TODO
-- [ ] header overlay image의 크기가 커서 로딩이 오리걸리는 문제
+- [x] default header overlay image의 크기가 커서 로딩이 오리걸리는 문제 -> 일러스트 
