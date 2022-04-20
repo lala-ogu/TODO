@@ -20,6 +20,7 @@
 - [ ] transaction script pattern vs domain model pattern
 - [ ] restapi와 http status
 - [ ] tcp 3way-handshake, 4way-handshake
+- [ ] jpa 영속성 컨텍스트(1차캐시), dirty checking, osiv, n + 1
 
 # blog TODO
 - [x] default header overlay image의 크기가 커서 로딩이 오리걸리는 문제 -> 일러스트 
