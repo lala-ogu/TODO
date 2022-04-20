@@ -11,6 +11,15 @@
 - [ ] tree구조의 경우 모든 컬럼에 대해 index를 생성해야 하는가?
 - [ ] 커버렁 index,  mysql 실행계획(explain)
 - [ ] proxie - 스프링 트랜잭션과 AOP의 동장 방식에 대하여
+- [ ] java 예외(checked, unchecked)
+- [ ] JVM 메모리구조,GC(간단히)
+- [ ] stream api vs collection framework
+- [ ] interface default method가 나온 이유
+- [ ] generic erasure(깊게x)
+- [ ] 자바 버전별 새로운 기능
+- [ ] transaction script pattern vs domain model pattern
+- [ ] restapi와 http status
+- [ ] tcp 3way-handshake, 4way-handshake
 
 # blog TODO
 - [x] default header overlay image의 크기가 커서 로딩이 오리걸리는 문제 -> 일러스트 
