@@ -16,7 +16,7 @@
 - [ ] stream api vs collection framework
 - [ ] interface default method가 나온 이유
 - [ ] generic erasure(깊게x)
-- [ ] 자바 버전별 새로운 기능
+- [] 자바 버전별 새로운 기능
 - [ ] transaction script pattern vs domain model pattern
 - [ ] restapi와 http status
 - [ ] tcp 3way-handshake, 4way-handshake
