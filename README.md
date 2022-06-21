@@ -15,10 +15,10 @@
 - [ ] JVM 메모리구조,GC(간단히)
 - [ ] stream api vs collection framework
 - [ ] interface default method가 나온 이유
-- [ ] generic erasure(깊게x)
-- [] 자바 버전별 새로운 기능
+- [x] generic erasure(깊게x)
+- [x] 자바 버전별 새로운 기능
 - [ ] transaction script pattern vs domain model pattern
-- [ ] restapi와 http status
+- [ ] http status
 - [ ] tcp 3way-handshake, 4way-handshake
 - [ ] jpa 영속성 컨텍스트(1차캐시), dirty checking, osiv, n + 1
 
